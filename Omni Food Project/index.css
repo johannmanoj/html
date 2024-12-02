@@ -25,7 +25,11 @@ body {
     border: none;
     border-radius: 10px;
     margin-top: 20px;
-    margin-left: 900px;
-    
+    margin-left: 700px;
+}
+
+.header-titles {
+    display: flex;
+    gap: 20px;
 }
 
